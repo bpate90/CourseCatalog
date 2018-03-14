@@ -1,0 +1,11 @@
+F:\Personal\CourseCatalog\CourseCatalog\obj\Debug\Catalog.Data.csprojResolveAssemblyReference.cache
+F:\Personal\CourseCatalog\CourseCatalog\obj\Debug\Catalog.Data.csproj.CoreCompileInputs.cache
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\CourseCatalog.dll.config
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\CourseCatalog.dll
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\CourseCatalog.pdb
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\EntityFramework.dll
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\EntityFramework.SqlServer.dll
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\EntityFramework.xml
+F:\Personal\CourseCatalog\CourseCatalog\bin\Debug\EntityFramework.SqlServer.xml
+F:\Personal\CourseCatalog\CourseCatalog\obj\Debug\CourseCatalog.dll
+F:\Personal\CourseCatalog\CourseCatalog\obj\Debug\CourseCatalog.pdb
